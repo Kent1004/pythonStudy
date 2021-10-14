@@ -1,5 +1,5 @@
 while True:
-    number = int (input("Введите количесто процентов:  "))
+    number = int (input("Введите количесто процентов:   "))
     if number >= 0 and number  <= 100:
       if number == 1:
            print(number,"процент")

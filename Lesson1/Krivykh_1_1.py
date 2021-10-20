@@ -1,4 +1,4 @@
-duration=int(input('Введите секунды: ',))
+duration=int(input('Введите секунды:  ',))
 
 if duration // 60 == 0:
     print(duration,"сек")
